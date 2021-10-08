@@ -1,0 +1,15 @@
+/* Header CSS */
+
+.profile-header {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #c2983b;
+  background-image: url("https://www.transparenttextures.com/patterns/graphcoders-lil-fiber.png");
+}
+.account {
+  margin: 0 0 -2em 0;
+}
