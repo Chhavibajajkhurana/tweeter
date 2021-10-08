@@ -8,7 +8,7 @@
 .tweet-description {
   display: flex;
   justify-content: space-between;
-  font-family: 'Bungee';
+  font-family: "Bungee";
   margin-top: 2px;
 }
 
@@ -18,7 +18,7 @@
   resize: none;
   outline: none;
   border-bottom: 4px solid #545149;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 400;
   resize: none;
   width: 80vw;
@@ -64,11 +64,15 @@ button {
 .icon {
   animation: bounce 0.5s;
   animation-direction: alternate;
-  animation-timing-function: cubic-bezier(.5, 0.05, 1, .5);
+  animation-timing-function: cubic-bezier(0.5, 0.05, 1, 0.5);
   animation-iteration-count: infinite;
 }
 
 @keyframes bounce {
-  from { transform: translate3d(0, 0, 0); }
-  to { transform: translate3d(0, 20px, 0); }
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(0, 20px, 0);
+  }
 }

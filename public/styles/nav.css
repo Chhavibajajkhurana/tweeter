@@ -1,9 +1,8 @@
 /* Navigation CSS */
-
 nav {
   height: 120px;
   width: 100%;
-  background-color: #4056A1;
+  background-color: #1141e2;
   color: #FFFFFF;
   padding: 0 1.5em;
   display: flex;
@@ -14,7 +13,7 @@ nav {
 }
 
 .logo {
-  font-family: 'Bungee';
+  font-family: "Bungee";
 }
 
 .arrow {
