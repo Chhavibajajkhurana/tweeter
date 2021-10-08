@@ -12,7 +12,7 @@ This repository is the starter code for the project: Students will fork and clon
 
 !["screenshot description"](https://github.com/Chhavibajajkhurana/tweeter/blob/master/docs/hover-over-tweet.png)
 
-!["screenshot description"](https://github.com/Chhavibajajkhurana/tweeter/blob/master/docs/max-count-error.png)
+!["screenshot description"](#)
 
 
 ## Getting Started
